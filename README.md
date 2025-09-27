@@ -76,6 +76,7 @@
 ## 미니 프로젝트 계획
 
 | 프로젝트 | 설명 | 기간 | 기술 |
+
 | 🎥 영화 리뷰 크롤러 | 네이버 영화 리뷰 수집 후 txt 저장 | 10월 | Python, BeautifulSoup |
 | 🌐 자기소개 웹페이지 | 간단한 소개 웹페이지 → GitHub Pages 배포 | 11월 | HTML, CSS, GitHub Pages |
 
